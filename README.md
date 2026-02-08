@@ -6,10 +6,8 @@ This is a solution for the **JavaScript Tabs UI** project — a small interactiv
 
 ## 🌐 Live Demo
 
-🔗 *Add your deployed demo link here* (GitHub Pages, Netlify, Vercel, etc.)
-
-Example:  
-👉 `https://kovalykvadym.github.io/10-tabs/`
+https://kovalykvadym.github.io/10-tabs/
+https://roadmap.sh/projects/simple-tabs
 
 ---
 
@@ -79,4 +77,5 @@ Tabbed content UI is widely used to organize information on web pages in a compa
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
 
