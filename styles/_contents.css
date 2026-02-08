@@ -1,0 +1,14 @@
+.contents {
+
+}
+
+.contents__tab {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contents__tab--visible {
+  display: flex;
+}

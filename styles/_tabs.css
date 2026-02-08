@@ -1,0 +1,14 @@
+.tabs {
+
+}
+
+.tabs__buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.tabs__contents {
+
+}

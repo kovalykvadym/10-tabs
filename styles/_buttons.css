@@ -1,0 +1,24 @@
+.buttons {
+
+}
+
+.buttons__button {
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  transition-duration: 0.2s;
+  color: black;
+  background-color: #F0F0F0;
+}
+
+.buttons__button--active {
+  border-bottom: 2px solid #000000;
+}
+
+.buttons__button:hover {
+  box-shadow: 0 0 20px 0 #000000;
+}
+
+.buttons__button:hover:disabled {
+  box-shadow: none;
+}
