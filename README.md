@@ -57,6 +57,11 @@ Tabbed content UI is widely used to organize information on web pages in a compa
 10-tabs/
 ├── index.html         # Main page
 ├── styles/
+│   ├── _buttons.css
+│   ├── _contents.css
+│   ├── _main.css
+│   ├── _normalize.css
+│   ├── _tabs.css
 │   └── style.css      # Styles for tabs and layout
 ├── index.js           # Logic for switching tabs
 └── README.md          # This file
@@ -74,3 +79,4 @@ Tabbed content UI is widely used to organize information on web pages in a compa
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
